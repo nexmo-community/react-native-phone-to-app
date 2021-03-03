@@ -13,6 +13,17 @@ Clone the project to your computer, using the terminal:
 
 `git clone git@github.com:nexmo-community/react-native-phone-to-app.git`
 
+Install the dependencies with [Yarn](https://yarnpkg.com):
+
+`yarn install`
+
+Start the ReactNative package server:
+
+`npx react-native start`
+
+In a new terminal window navigate to your project window and run the iOS project with:
+
+`npx react-native run-ios`
 
 ## Getting Help
 
