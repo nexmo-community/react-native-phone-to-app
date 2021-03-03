@@ -1,0 +1,6 @@
+module Pods_RNPhoneToApp {
+  umbrella header "Pods-RNPhoneToApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
