@@ -62,6 +62,7 @@ class App extends Component<{}, { status: string }> {
 
   componentWillUnmount() {
     eventEmitter.removeAllListeners('onStatusChange');
+    eventEmitter.removeAllListeners('onStatusChange');
   }
 
   render() {
